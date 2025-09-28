@@ -16,7 +16,7 @@ Proyek SQL ringkas yang menunjukkan **schema rapi**, **query analitik nyata**, d
     - `orders.status ∈ {'delivered','pending','cancelled'}`
   - **View**: `vw_order_totals` → total per order = `SUM(qty * unit_price)` (reusable untuk metrik lain).
 
-- **Analytics (15 query utama – sesuai file)**
+- **Analytics (15 query utama)**
   1. **Top-5 products by revenue**  
   2. **Daily revenue** (hanya `status='delivered'`)  
   3. **AOV** (Average Order Value) via `vw_order_totals`  
