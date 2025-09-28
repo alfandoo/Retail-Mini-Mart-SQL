@@ -1,11 +1,11 @@
-# 🛒 Retail Mini-Mart — SQL Portfolio (Beginner Friendly)
+# 🛒 Retail Mini-Mart — SQL Portfolio 
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-15-blue?logo=postgresql)
 ![pgAdmin4](https://img.shields.io/badge/pgAdmin-4-1f425f)
 ![SQL Skills](https://img.shields.io/badge/Skills-JOIN%20%7C%20CTE%20%7C%20Window%20%7C%20GROUP%20BY%20%7C%20HAVING-green)
 ![Status](https://img.shields.io/badge/Data-%E2%89%A5%201000%20orders-brightgreen)
 
-Proyek SQL ringkas yang menunjukkan **schema rapi**, **query analitik nyata**, dan **window functions** di mini toko retail. Dibangun dengan **PostgreSQL + pgAdmin 4**. Cocok untuk pemula tapi tetap terlihat profesional di GitHub/LinkedIn.
+Proyek SQL ringkas yang menunjukkan **schema rapi**, **query analitik nyata**, dan **window functions** di mini toko retail. Dibangun dengan **PostgreSQL + pgAdmin 4**. 
 
 ---
 
@@ -61,3 +61,25 @@ erDiagram
     numeric amount
     timestamp paid_at
   }
+
+Daily Revenue:
+
+![Daily Revenue](reports/screenshots/daily_revenue.png)
+![Daily Revenue](reports/screenshots/revenue_by_day.png)
+
+AOV:
+
+![AOV](reports/screenshots/aov.png)
+
+RFM:
+
+![RFM Mini](reports/screenshots/rfm.png)
+
+Pareto 80/20:
+
+![Pareto 80/20](reports/screenshots/pareto.png)
+
+Unpaid Orders:
+
+![Unpaid Orders](reports/screenshots/unpaid_orders.png)
+
