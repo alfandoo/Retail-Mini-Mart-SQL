@@ -26,7 +26,7 @@ Proyek SQL ringkas yang menunjukkan **schema rapi**, **query analitik nyata**, d
   7. **Unpaid orders** (hitung `due = order_total - paid`)  
   8. **% Cancelled orders**  
   9. **Revenue by city**  
-  10. **New vs Returning** (contoh bulan 2024-06)  
+  10. **New vs Returning**   
   11. **Running total** revenue by day (window function)  
   12. **Pareto 80/20** (gunakan `cum_pct` dengan window)  
   13. **Last order per customer**  
