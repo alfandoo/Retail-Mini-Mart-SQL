@@ -19,12 +19,12 @@ Proyek SQL ringkas yang menunjukkan **schema rapi**, **query analitik nyata**, d
 
 Daily Revenue:
 
-![Daily Revenue](reports/screenshots/daily_revenue.png)
+![Daily Revenue](reports/screenshots/daily_revenue.PNG)
 ![Daily Revenue](reports/screenshots/revenue_by_day.png)
 
 AOV:
 
-![AOV](reports/screenshots/aov.png)
+![AOV](reports/screenshots/aov.PNG)
 
 RFM:
 
@@ -32,11 +32,11 @@ RFM:
 
 Pareto 80/20:
 
-![Pareto 80/20](reports/screenshots/pareto.png)
+![Pareto 80/20](reports/screenshots/pareto.PNG)
 
 Unpaid Orders:
 
-![Unpaid Orders](reports/screenshots/unpaid_orders.png)
+![Unpaid Orders](reports/screenshots/unpaid_orders.PNG)
 
 ---
 
